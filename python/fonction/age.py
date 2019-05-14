@@ -14,5 +14,5 @@ try:
     elif choix == "-":
         result = a-b
         print(result)
-except ZeroDivisionError: print("c'est pas jojo ")
+except ZeroDivisionError: print("c'est pas possible ")
 
