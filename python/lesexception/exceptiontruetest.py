@@ -10,7 +10,7 @@ try:
      assert year > 2000#assert permet de verifier si une condition est respecter si elle ne l'est pas elle renvoie
    #une erreur
 except ValueError:
-    print("erreur : tu devrais écrire un chiffre, OH LE SEGPA")
+    print("erreur : tu devrais écrire un chiffre")
 except AssertionError:
     pass
 
